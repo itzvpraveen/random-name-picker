@@ -9,12 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-slot": "^1.1.0",
+    "canvas-confetti": "^1.9.3",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.5.4",
+    "next": "14.2.11",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.11"
+    "tailwind-merge": "^2.5.2"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.20",
     "eslint": "^8",
-    "eslint-config-next": "14.2.11"
+    "eslint-config-next": "14.2.11",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.11"
   }
 }
