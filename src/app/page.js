@@ -107,7 +107,7 @@ const RandomNamePicker = () => {
         
         <div className="p-6 space-y-6">
           <div>
-            <h2 className="text-3xl font-bold text-center text-[#2D61A7] mb-2">7th Anniversary Sale</h2>
+            <h2 className="text-3xl font-bold text-center text-[#2D61A7] mb-2">Diamond Ring Contest</h2>
             <p className="text-center text-gray-600">Winner Selection</p>
           </div>
           
